@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0002-add-two-numbers/) | Medium |
+| [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
