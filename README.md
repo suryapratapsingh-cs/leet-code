@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0002-add-two-numbers/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -80,4 +83,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 <!---LeetCode Topics End-->
