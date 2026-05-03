@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0006-zigzag-conversion/) | Medium |
 | [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
+| [0796-rotate-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0796-rotate-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -100,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
