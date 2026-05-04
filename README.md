@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0048-rotate-image](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0396-rotate-function/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
