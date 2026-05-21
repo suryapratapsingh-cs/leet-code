@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
 | [0796-rotate-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0796-rotate-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
