@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
 | [0396-rotate-function](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0788-rotated-digits/) | Medium |
+| [1340-jump-game-v](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1340-jump-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3660-jump-game-ix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3660-jump-game-ix/) | Medium |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2784-check-if-array-is-good/) | Easy |
