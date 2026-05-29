@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Recursion
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3660-jump-game-ix/) | Medium |
