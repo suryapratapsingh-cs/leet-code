@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1871-jump-game-vii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
