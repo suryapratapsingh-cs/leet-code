@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
