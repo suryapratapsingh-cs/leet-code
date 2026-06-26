@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3660-jump-game-ix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3161-block-placement-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,4 +296,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
