@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3093-longest-common-suffix-queries/) | Hard |
