@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2540-minimum-common-value/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
 | [0796-rotate-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1871-jump-game-vii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
