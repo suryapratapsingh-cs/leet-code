@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -203,11 +205,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Prefix Sum
@@ -305,4 +310,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
