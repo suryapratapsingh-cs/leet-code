@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Divide and Conquer
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3660-jump-game-ix/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -321,12 +324,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/suryapratapsingh-cs/leet-code/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
