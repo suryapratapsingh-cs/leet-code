@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0396-rotate-function/) | Medium |
+| [1260-shift-2d-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1306-jump-game-iii/) | Medium |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0048-rotate-image/) | Medium |
+| [1260-shift-2d-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1861-rotating-the-box](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1861-rotating-the-box/) | Medium |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryapratapsingh-cs/leet-code/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
