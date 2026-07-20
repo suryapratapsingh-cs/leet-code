@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0788-rotated-digits/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0013-roman-to-integer/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1345-jump-game-iv/) | Hard |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0006-zigzag-conversion/) | Medium |
+| [0013-roman-to-integer](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0013-roman-to-integer/) | Easy |
 | [0044-wildcard-matching](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0044-wildcard-matching/) | Hard |
 | [0796-rotate-string](https://github.com/suryapratapsingh-cs/leet-code/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/suryapratapsingh-cs/leet-code/tree/main/1189-maximum-number-of-balloons/) | Easy |
